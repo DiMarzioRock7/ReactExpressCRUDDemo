@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81c862e5-34ce-479f-9157-d8dd19603ca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ReactExpressCRUDDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/app/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/app/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/app/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/buttontable/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/userslist/allusers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/userslist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/userslist/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/DeprecationWarning" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/bin/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controller/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/migrations/20200307135340-create-user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/seeders/20200307142714-users-seeder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/error.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/index.jade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/views/layout.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,12 +71,26 @@
       <updated>1583573346094</updated>
       <workItem from="1583573347258" duration="116893000" />
       <workItem from="1584021084186" duration="38000" />
-      <workItem from="1584021123722" duration="688000" />
+      <workItem from="1584021123722" duration="1374000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit: Finish basic requirement of NTU evaluation tasks">
+      <created>1584022014860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022014860</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Commit: Finish basic requirement of NTU evaluation tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Finish basic requirement of NTU evaluation tasks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="804" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583573366281">
@@ -130,10 +101,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583743958469" />
+    <state x="583" y="115" key="CommitChangelistDialog2" timestamp="1584022012705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584022012705" />
     <state x="439" y="324" key="FileChooserDialogImpl" timestamp="1584020881662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="439" y="324" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584020881662" />
+    <state x="81" y="268" key="Github.ShareDialog" timestamp="1584022083389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="268" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584022083389" />
     <state x="113" y="321" key="SettingsEditor" timestamp="1584021432647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
