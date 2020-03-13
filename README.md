@@ -2,21 +2,26 @@
 
 ## Development
 
-Make sure that `NodeJS + NPM` and `XAMPP` are installed and well configured.
+Make sure that `NodeJS + NPM` and `XAMPP` are installed and well-configured.
 
-Run the following commands to configure back-end
+To run the entire project, please make sure to open two terminal windows for back-end and front-end.
+
+Prior to initiation, please configure database connection in file `/server/config/config.json`
+
+For the first terminal, run commands below to start back-end server service.
 ```
 cd server
 npm install
 npx sequelize db:migrate
 npx sequelize db:seed:all
+npm start
 ```
-Run the following commands to configure front-end
+For the second terminal, run the following commands to initiate front-end web services.
 ```
-cd server
+cd client
 npm install
+npm start
 ```
-To start this project, please kindly run `npm start` twice in both `server` folder and `client` path.
 
 
 

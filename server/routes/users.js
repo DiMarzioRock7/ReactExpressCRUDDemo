@@ -9,7 +9,7 @@ let stringParser = bodyParser.text();
  */
 router
 	.get('/', function(req, res, next) {
-		console.log('***********FETCH**************');
+		console.log('***********SHOW ALL**************');
 
 		user.findAllUser()
 			.then(result => {

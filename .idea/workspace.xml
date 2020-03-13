@@ -4,6 +4,8 @@
     <list default="true" id="81c862e5-34ce-479f-9157-d8dd19603ca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/models/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,12 @@
       <updated>1583573346094</updated>
       <workItem from="1583573347258" duration="116893000" />
       <workItem from="1584021084186" duration="38000" />
-      <workItem from="1584021123722" duration="1374000" />
+      <workItem from="1584021123722" duration="1747000" />
+      <workItem from="1584088160954" duration="591000" />
+      <workItem from="1584088766921" duration="601000" />
+      <workItem from="1584090849447" duration="333000" />
+      <workItem from="1584091324919" duration="110000" />
+      <workItem from="1584091621859" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit: Finish basic requirement of NTU evaluation tasks">
       <created>1584022014860</created>
@@ -80,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584022014860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit: Finish README.md">
+      <created>1584022554249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022554249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +104,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial Commit: Finish basic requirement of NTU evaluation tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit: Finish basic requirement of NTU evaluation tasks" />
+    <MESSAGE value="Second Commit: Finish README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit: Finish README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="804" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583573366281">
@@ -101,10 +116,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583743958469" />
-    <state x="583" y="115" key="CommitChangelistDialog2" timestamp="1584022012705">
+    <state x="583" y="115" width="1190" height="809" key="CommitChangelistDialog2" timestamp="1584022551724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="115" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584022012705" />
+    <state x="583" y="115" width="1190" height="809" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584022551724" />
     <state x="439" y="324" key="FileChooserDialogImpl" timestamp="1584020881662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,6 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="113" y="321" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584021432647" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1584022590343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584022590343" />
     <state x="1027" y="244" key="run.anything.popup" timestamp="1583849319106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
