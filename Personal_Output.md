@@ -27,8 +27,8 @@ In this project, we have multiple onClick functions including SQL CRUD. Therefor
   - For the CRUD operations, function will be called directly on the page by implementing "onCLick" or "submit" functions, and "state" will be updated with the returned data of called functions.
   
 ## 3. Back-End - Express
+As NodeJS required, I choose to import an advance NodeJS back-end web framework to help me handling html req and res, migrating and seeding database. Fisrt thing first, we have to proxy the client to the server to avoid cross-region problem. Bsesides migrating files and seeding files, rest of the code also is qutie simple: a url dispatcher to handle different requests, several html pages for back-end debugging and models of "user" synced with database. Hence a simple MVC model is been established.
 
-
-## 4. Back-End - Sequelize
-
+  ### 3.1. Back-End - Sequelize
+  Since model is designed in Express, Sequelize is introduced as ORM to interact with MySQL robustly.
 
